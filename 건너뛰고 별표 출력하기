@@ -9,3 +9,5 @@ for i in range(n-2,-1, -1):
 		print("*", end="")
 	print()
 	print()
+
+// 생각해가면서 하니 해설과 거의 유사해서 기분이 좋다.
